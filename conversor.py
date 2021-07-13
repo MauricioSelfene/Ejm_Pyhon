@@ -1,4 +1,4 @@
-#Conversor de modenas
+#Conversor de modenas v1
 
 #Dolar a peso chileno
 pesos = input("Cuantos pesos tienes? ")
